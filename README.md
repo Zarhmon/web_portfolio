@@ -1,2 +1,2 @@
 # web_portfolio
-My personal web portfolio
+ my web portfolio
